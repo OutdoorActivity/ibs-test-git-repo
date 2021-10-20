@@ -6,7 +6,7 @@ public class Puzir {
 
         sort1(array);
         sort2(array);
-
+        System.out.println("new string");
     }
 
     public static void sort1(int[] array) {
